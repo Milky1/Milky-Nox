@@ -2,4 +2,7 @@
   <videolibrary>
       <hideallitems>true</hideallitems>
   </videolibrary>
+  <musiclibrary>
+    <hideallitems>true</hideallitems>
+  </musiclibrary>
 </advancedsettings>
