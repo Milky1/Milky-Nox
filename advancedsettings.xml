@@ -1,5 +1,4 @@
 <advancedsettings>
-
   <videolibrary>
       <hideallitems>true</hideallitems>
   </videolibrary>
@@ -12,5 +11,4 @@
       <buffermode>1</buffermode>
       <readbufferfactor>5</readbufferfactor>
   </network>
-  
-</advancedsettings>
+  </advancedsettings>
