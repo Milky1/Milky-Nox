@@ -5,4 +5,8 @@
   <musiclibrary>
     <hideallitems>true</hideallitems>
   </musiclibrary>
+  <network>
+      <buffermode>1</buffermode>
+      <readbufferfactor>5</readbufferfactor>
+  </network>
 </advancedsettings>
