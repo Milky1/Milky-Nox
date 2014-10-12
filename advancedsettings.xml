@@ -8,7 +8,8 @@
   </musiclibrary>
   
   <network>
-      <buffermode>1</buffermode>
-      <readbufferfactor>5</readbufferfactor>
+    <buffermode>1</buffermode>
+    <cachemembuffersize>0</cachemembuffersize>
+    <readbufferfactor>10</readbufferfactor>
   </network>
-  </advancedsettings>
+</advancedsettings>
