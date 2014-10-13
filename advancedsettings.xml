@@ -9,7 +9,7 @@
   
   <network>
     <buffermode>1</buffermode>
-    <cachemembuffersize>0</cachemembuffersize>
-    <readbufferfactor>10</readbufferfactor>
+    <cachemembuffersize>209715200</cachemembuffersize>
+    <readbufferfactor>4.0</readbufferfactor>
   </network>
 </advancedsettings>
