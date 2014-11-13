@@ -7,9 +7,6 @@
     <hideallitems>true</hideallitems>
   </musiclibrary>
   
-  <network>
-    <buffermode>1</buffermode>
-    <cachemembuffersize>209715200</cachemembuffersize>
-    <readbufferfactor>4.0</readbufferfactor>
-  </network>
+  <songinfoduration>0</songinfoduration>
+  
 </advancedsettings>
